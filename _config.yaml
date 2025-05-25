@@ -1,0 +1,16 @@
+title: Justin Gerace
+description: Personal website of Justin Gerace, Security Engineer
+url: "https://justin.gerace.io"
+baseurl: ""
+
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+plugins:
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
